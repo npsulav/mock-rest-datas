@@ -1,20 +1,19 @@
-[
-  {
-    'id':1,
-    'title':'No, the surge in Covid cases across the U.S. is not due to migrants or immigrants',
-    'subtitle':'"There is a very long history in the United States, sadly ... trying to blame outsiders for diseases and there is not any evidence," medical ethicist Arthur Caplan said.',
-    'thumbnail':'https://media-cldnry.s-nbcnews.com/image/upload/t_fit-2000w,f_auto,q_auto:best/rockcms/2021-08/210811-border-immigrants-ew-318p-659b75.jpg',
-    'author':'By Ronny Rojas, Noticias Telemundo',
-    'content':'As the delta variant contributes to a surge of Covid-19 cases around the United States, different voices have emerged blaming people entering the country — in particular, migrants crossing the U.S. border — for the spread.',
-    'posted_at':'2020-02-02 10:10 A.M.'
-  },
-  {
-    'id':1,
-    'title':'No, the surge in Covid cases across the U.S. is not due to migrants or immigrants',
-    'subtitle':'"There is a very long history in the United States, sadly ... trying to blame outsiders for diseases and there is not any evidence," medical ethicist Arthur Caplan said.',
-    'thumbnail':'https://media-cldnry.s-nbcnews.com/image/upload/t_fit-2000w,f_auto,q_auto:best/rockcms/2021-08/210811-border-immigrants-ew-318p-659b75.jpg',
-    'author':'By Ronny Rojas, Noticias Telemundo',
-    'content':'As the delta variant contributes to a surge of Covid-19 cases around the United States, different voices have emerged blaming people entering the country — in particular, migrants crossing the U.S. border — for the spread.',
-    'posted_at':'2020-02-02 10:10 A.M.'
-  }
+[{
+	"id": "1",
+	"title": "No, the surge in Covid cases across the U.S. is not due to migrants or immigrants",
+	"subtitle": "'There is a very long history in the United States, sadly ... trying to blame outsiders for diseases and there is not any evidence,' medical ethicist Arthur Caplan said.",
+	"thumbnail": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-2000w,f_auto,q_auto:best/rockcms/2021-08/210811-border-immigrants-ew-318p-659b75.jpg",
+	"author": "By Ronny Rojas, Noticias Telemundo",
+	"content": "As the delta variant contributes to a surge of Covid-19 cases around the United States, different voices have emerged blaming people entering the country — in particular, migrants crossing the U.S. border — for the spread.",
+	"posted_at": "2020-02-02 10:10 A.M."
+},
+ {
+	"id": "2",
+	"title": "Yes, the surge in Covid cases across the U.S. is not due to migrants or immigrants",
+	"subtitle": "'There is a very long history in the United States, sadly ... trying to blame outsiders for diseases and there is not any evidence,' medical ethicist Arthur Caplan said.",
+	"thumbnail": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-2000w,f_auto,q_auto:best/rockcms/2021-08/210811-border-immigrants-ew-318p-659b75.jpg",
+	"author": "By Ronny Rojas, Noticias Telemundo",
+	"content": "As the delta variant contributes to a surge of Covid-19 cases around the United States, different voices have emerged blaming people entering the country — in particular, migrants crossing the U.S. border — for the spread.",
+	"posted_at": "2020-02-02 10:10 A.M."
+}
 ]
