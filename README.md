@@ -1,1 +1,1 @@
-<a href="http://girifurniture.byethost31.com/">Ya daba website khulcha</a>
+<a href="http://shikshafoundatio.byethost7.com/">Press here to go to Shiksha Foundation Website</a>
