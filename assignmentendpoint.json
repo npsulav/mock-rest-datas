@@ -1,8 +1,9 @@
-[{
-		"id": 1,
-		"img": "https://raw.githubusercontent.com/SimformSolutionsPvtLtd/flutter_credit_card/master/readme_assets/banner.png",
-		"heading": "A Big Building of Paris",
-		"desc": "The Eiffel Tower is a wrought-iron lattice tower on the Champ de Mars in Paris, France. It is named after the engineer Gustave Eiffel, whose company designed and built the tower."
+[
+	{
+		"id": 2,
+		"img": "https://e0.365dm.com/21/12/384x216/skysports-fantasy-football_5610665.png?20211210142216",
+		"heading": "Crisps Media has launched app which enables news distro by AI",
+		"desc": "In an interview held this saturday in Biratnagar, Anjani Kumar Thakur, spokesperson at Crisps Media announced that the company will be adding sentiment analysis that can enable the user to get a rich experience. We are also planning to link this in a hyperlocal environment to connect users locally with services, Anjani added. This is a 60 words sample text."
 	},
 	{
 		"id": 2,
@@ -11,9 +12,9 @@
 		"desc": "In an interview held this saturday in Biratnagar, Anjani Kumar Thakur, spokesperson at Crisps Media announced that the company will be adding sentiment analysis that can enable the user to get a rich experience. We are also planning to link this in a hyperlocal environment to connect users locally with services, Anjani added. This is a 60 words sample text."
 	},
 	{
-		"id": 3,
-		"img": "https://wallpapercave.com/wp/wp6894188.jpg",
-		"heading": "A Big Building of Paris",
-		"desc": "The Eiffel Tower is a wrought-iron lattice tower on the Champ de Mars in Paris, France. It is named after the engineer Gustave Eiffel, whose company designed and built the tower."
+		"id": 2,
+		"img": "https://e0.365dm.com/21/12/384x216/skysports-fantasy-football_5610665.png?20211210142216",
+		"heading": "Crisps Media has launched app which enables news distro by AI",
+		"desc": "In an interview held this saturday in Biratnagar, Anjani Kumar Thakur, spokesperson at Crisps Media announced that the company will be adding sentiment analysis that can enable the user to get a rich experience. We are also planning to link this in a hyperlocal environment to connect users locally with services, Anjani added. This is a 60 words sample text."
 	}
 ]
